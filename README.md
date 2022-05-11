@@ -1,2 +1,2 @@
 # C-Generic-Priority-Queue
-C++ priority queue using binary heap. Can take generic types.
+C++ priority queue using binary heap. Minimum-oriented. Can take generic types.
